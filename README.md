@@ -1,8 +1,6 @@
-### Predicting Heart Failure
+# Predicting Heart Failure
 
-## Overview
-
-# This project aims to predict heart failure based on patient data. We explored data relationships and trained machine learning models:
+## This project aims to predict heart failure based on patient data. We explored data relationships and trained machine learning models:
 
 Independent variables: Anaemia, Sex, Diabetes, Smoking Status, High Blood Pressure
 Dependet: Death Event
